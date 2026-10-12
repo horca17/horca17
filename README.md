@@ -8,7 +8,7 @@ Every repository here comes with its raw data and the IBM Quantum job IDs needed
 
 | Repository | What it is | Paper |
 |---|---|---|
-| [er-epr-six-protocols](https://github.com/horca17/er-epr-six-protocols) | Six experiments on `ibm_marrakesh` testing boundary signatures of the ER=EPR conjecture | [10.5281/zenodo.20559369](https://doi.org/10.5281/zenodo.20559369) |
+| [er-epr-six-protocols](https://github.com/horca17/er-epr-six-protocols) | Six experiments on `ibm_marrakesh` testing boundary signatures of the ER=EPR conjecture | [10.5281/zenodo.20559368](https://doi.org/10.5281/zenodo.20559368) |
 | [nv-odmr-bench](https://github.com/horca17/nv-odmr-bench) | Home-built ODMR bench with NV centers in diamond, plus its digital twin on IBM Quantum | [10.5281/zenodo.20191912](https://doi.org/10.5281/zenodo.20191912) |
 
 **QubistryLab** is an open space for independent researchers: register, get your work audited, publish it under your name → [qubistry.co](https://www.qubistry.co/#lab)
